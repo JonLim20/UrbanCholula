@@ -1,4 +1,4 @@
-# UrbanCholula
+# Guide for Establishing an Archaeological Database with Open Software
 
 by Jonathan S. Lim, Carla Klehm, Kristin Landau, and Malcolm Williamson
 
